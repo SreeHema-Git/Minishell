@@ -1,0 +1,1 @@
+Minishell: Developed a Mini Shell in C that mimics basic Linux shell functionality. The project supports execution of internal and external commands, process creation using fork(), program execution with exec(), command history, signal handling, and piping between commands, providing hands-on experience with Linux system programming and process management.
